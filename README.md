@@ -47,7 +47,7 @@ The Minimax algorithm evaluates all possible moves and outcomes up to a certain 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/connect4-ai.git
+   git clone https://github.com/heartstoller/connect4-ai.git
    cd connect4-ai
    ```
 
@@ -63,18 +63,12 @@ The Minimax algorithm evaluates all possible moves and outcomes up to a certain 
 
 ---
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
----
-
 ## Team Members
 
-- Aman Backer (16)
-- Aswin Shobanan (24)
-- Ananthakrishnan S (19)
-- Mallik Siva Sujith (13)
+- Aman Backer 
+- Aswin Shobanan 
+- Ananthakrishnan S 
+- Mallik Siva Sujith 
 
 ---
 
