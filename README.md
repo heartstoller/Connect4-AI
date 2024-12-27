@@ -47,8 +47,8 @@ The Minimax algorithm evaluates all possible moves and outcomes up to a certain 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/heartstoller/connect4-ai.git
-   cd connect4-ai
+   [git clone https://github.com/heartstoller/connect4-ai.git](https://github.com/heartstoller/Connect4-AI.git)
+   cd Connect4-AI
    ```
 
 2. **Install Dependencies**:
@@ -69,12 +69,6 @@ The Minimax algorithm evaluates all possible moves and outcomes up to a certain 
 - Aswin Shobanan 
 - Ananthakrishnan S 
 - Mallik Siva Sujith 
-
----
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
 
 ---
 
